@@ -133,7 +133,7 @@ public class Test {
 		for(Logiciel logiciel : resultats){
 			System.out.print(logiciel.getNomLogiciel() + " ");
 		}
-		System.out.println();
+		System.out.println("Ajout dans github");
 	}
 	
 	/**
