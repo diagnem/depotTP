@@ -129,7 +129,7 @@ public class Test {
 			Logiciel logiciel = licence.getLogiciel();
 			resultats.add(logiciel);			
 		}
-		System.out.print(secretaire.getNom() + " bla bla bla : ");
+		System.out.print(secretaire.getNom() + " bla test bla bla : ");
 		for(Logiciel logiciel : resultats){
 			System.out.print(logiciel.getNomLogiciel() + " ");
 		}
